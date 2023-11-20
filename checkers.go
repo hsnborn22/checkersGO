@@ -79,7 +79,6 @@ func calculateEnemyCode(code int) [2]int {
 	return output
 }
 
-// trofea grill
 
 func numIsIn(element int, twoElArray [2]int) bool {
 	if twoElArray[0] == element || twoElArray[1] == element {
